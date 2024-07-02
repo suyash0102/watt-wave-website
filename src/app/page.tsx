@@ -6,7 +6,7 @@ export default function Home() {
       {/* Watt Wave Section */}
       <div className="text-center">
         <h1 className="text-4xl font-bold mb-4 text-gray-900 dark:text-white">Watt Wave</h1>
-        <p className="text-lg mb-8 text-gray-700 dark:text-gray-300">You Park We Charge | Wireless Charging for EVs.</p>
+        <p className="text-lg mb-8 text-gray-700 dark:text-gray-300">You Park We Charge  | Wireless Charging for EVs.</p>
         <div className="bg-gray-200 dark:bg-zinc-800/30 w-72 h-72 rounded-lg mx-auto overflow-hidden shadow-lg">
           {/* Placeholder Image */}
           <Image
